@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "778774930954",
+    "firebase_url": "https://gagapp-a4606.firebaseio.com",
+    "project_id": "gagapp-a4606",
+    "storage_bucket": "gagapp-a4606.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778774930954:android:f5568ba447e3515d94a1f3",
+        "android_client_info": {
+          "package_name": "com.meridianmovie.movietest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778774930954-hddvhi8101jn7n5gdtdt3ohcuka43ls2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN9_fEsenScBkHVEuz0efL__ghlRxM0qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778774930954-hddvhi8101jn7n5gdtdt3ohcuka43ls2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778774930954-7gk8m46mno3je626fvlu0ej5r5hrt3j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sdatas.apptest"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778774930954:android:8aed908eb462d2df94a1f3",
+        "android_client_info": {
+          "package_name": "com.sdatas.apptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778774930954-hddvhi8101jn7n5gdtdt3ohcuka43ls2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN9_fEsenScBkHVEuz0efL__ghlRxM0qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778774930954-hddvhi8101jn7n5gdtdt3ohcuka43ls2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "778774930954-7gk8m46mno3je626fvlu0ej5r5hrt3j4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.sdatas.apptest"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

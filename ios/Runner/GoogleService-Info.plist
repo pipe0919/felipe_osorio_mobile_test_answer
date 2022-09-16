@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+	<dict>
+		<key>CLIENT_ID</key>
+		<string>778774930954-blk4d0b1almmj8hvj2ak0cbsc9g77fbr.apps.googleusercontent.com</string>
+		<key>REVERSED_CLIENT_ID</key>
+		<string>com.googleusercontent.apps.778774930954-blk4d0b1almmj8hvj2ak0cbsc9g77fbr</string>
+		<key>API_KEY</key>
+		<string>AIzaSyAqGDLkdpSn33vzXAwepsg1qvqbHylE3LQ</string>
+		<key>GCM_SENDER_ID</key>
+		<string>778774930954</string>
+		<key>PLIST_VERSION</key>
+		<string>1</string>
+		<key>BUNDLE_ID</key>
+		<string>com.meridianmovie.movietest</string>
+		<key>PROJECT_ID</key>
+		<string>gagapp-a4606</string>
+		<key>STORAGE_BUCKET</key>
+		<string>gagapp-a4606.appspot.com</string>
+		<key>IS_ADS_ENABLED</key>
+		<false></false>
+		<key>IS_ANALYTICS_ENABLED</key>
+		<false></false>
+		<key>IS_APPINVITE_ENABLED</key>
+		<true></true>
+		<key>IS_GCM_ENABLED</key>
+		<true></true>
+		<key>IS_SIGNIN_ENABLED</key>
+		<true></true>
+		<key>GOOGLE_APP_ID</key>
+		<string>1:778774930954:ios:bf273951449b09a494a1f3</string>
+		<key>DATABASE_URL</key>
+		<string>https://gagapp-a4606.firebaseio.com</string>
+	</dict>
+</plist>
