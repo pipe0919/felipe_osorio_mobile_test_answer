@@ -1,16 +1,8 @@
 # felipe_osorio_mobile_test_answer
 
-A new Flutter project.
+Esta es mi prueba ténica.
 
-## Getting Started
+Debido al corto tiempo y mis obligaciones que se presentaron en el mismo tiempo
+que la realicación de este test, faltó incluir el complemento del localStorage.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Agradezco a la empresa la oportunidad de ser parte de ella.
